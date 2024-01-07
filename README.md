@@ -6,7 +6,9 @@
 
 ## Preview
 
-[Loki - O Amigo Perfeito](1.png)
+<p align="center">
+  <img src="1.png" alt="Dog" />
+</p>
 
 Bem-vindo à página de adoção do adorável Loki! Este é um projeto de estudo incrível com TailwindCSS, onde buscamos encontrar um lar amoroso para o Loki.
 
