@@ -4,7 +4,9 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Icon" />
 </p>
 
-<!-- ![Loki - O Amigo Perfeito](link_para_imagem_loki.jpg) -->
+## Preview
+
+[Loki - O Amigo Perfeito](1.png)
 
 Bem-vindo à página de adoção do adorável Loki! Este é um projeto de estudo incrível com TailwindCSS, onde buscamos encontrar um lar amoroso para o Loki.
 
